@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ictioncampuses.com/sitemap.xml
