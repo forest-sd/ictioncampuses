@@ -8,22 +8,39 @@
     <lastBuildDate>2026-02-21</lastBuildDate>
     <atom:link href="https://ictioncampuses.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Adaptive Learning Technologies Reshaping Education</title>
+      <link>https://ictioncampuses.com/posts/adaptive-learning-technologies-reshaping-education/</link>
+      <description>How AI and personalized learning platforms are transforming educational outcomes for diverse learners.</description>
+    </item>
+    <item>
+      <title>Digital Literacy as a Fundamental Skill</title>
+      <link>https://ictioncampuses.com/posts/digital-literacy-as-a-fundamental-skill/</link>
+      <description>Why digital literacy is as important as traditional literacy and how communities can close the digital divide.</description>
+    </item>
+    <item>
       <title>Future of Education Technology</title>
       <link>https://ictioncampuses.com/posts/future-of-education-technology/</link>
       <description>How AI, VR, and adaptive learning are transforming education.</description>
-      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>Project-Based Learning: Outcomes and Best Practices</title>
+      <link>https://ictioncampuses.com/posts/project-based-learning-outcomes-and-best-practices/</link>
+      <description>Research on how experiential learning approaches improve retention, engagement, and real-world skills.</description>
     </item>
     <item>
       <title>Skills Employers Want in Graduates</title>
       <link>https://ictioncampuses.com/posts/skills-employers-want/</link>
       <description>The critical competencies that set top candidates apart in today's job market.</description>
-      <pubDate>2026-02-21</pubDate>
     </item>
     <item>
       <title>The Future of Learning: Adaptive Education in a Changing World</title>
       <link>https://ictioncampuses.com/posts/the-future-of-learning-adaptive-education-in-a-changing-world/</link>
       <description>The Future of Learning: Adaptive Education in a Changing World — an in-depth exploration with evidence-based insights.</description>
-      <pubDate>2026-02-21</pubDate>
+    </item>
+    <item>
+      <title>The Value of Lifelong Learning in a Changing Economy</title>
+      <link>https://ictioncampuses.com/posts/the-value-of-lifelong-learning-in-a-changing-economy/</link>
+      <description>Why continuous skill development is essential for career resilience and personal growth.</description>
     </item>
   </channel>
 </rss>
